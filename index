@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <h1>Schedule to Calendar</h1>
+    <h1>ScheduletoCalendar</h1>
     <p><strong>Personal Automation Tool</strong></p>
     
     <p>This is a private script that helps me (Peter Lofaro) automatically process Excel/CSV schedules and add them to my Google Calendar.</p>
