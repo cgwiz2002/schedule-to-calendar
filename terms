@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Gmail Automation Script</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; padding: 20px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p><strong>Effective Date:</strong> June 25, 2026</p>
+    
+    <p>Welcome to the personal Gmail automation script ("the App").</p>
+    
+    <h2>1. Acceptance of Terms</h2>
+    <p>By using this App, you acknowledge that it is a personal tool developed and used exclusively by Peter Lofaro for his own Gmail account (cgwiz2001@gmail.com).</p>
+    
+    <h2>2. Description of Service</h2>
+    <p>The App is a private automation script that reads and writes emails in my personal Gmail account using the Gmail API. It is intended solely for personal use (e.g., schedule processing, notifications, etc.).</p>
+    
+    <h2>3. Limitations</h2>
+    <ul>
+        <li>This App has no external users or public features.</li>
+        <li>It only operates on my own Google account.</li>
+        <li>No warranties are provided — use at your own risk.</li>
+    </ul>
+    
+    <h2>4. Data & Privacy</h2>
+    <p>All data handling is governed by the separate <a href="index.html">Privacy Policy</a>. The App does not share or sell any information.</p>
+    
+    <h2>5. Termination</h2>
+    <p>I may stop or modify the App at any time without notice.</p>
+    
+    <h2>6. Contact</h2>
+    <p>For questions, contact me at: <strong>cgwiz2001@gmail.com</strong></p>
+    
+    <p>This Terms of Service applies only to this personal script and does not create any legal relationship with third parties.</p>
+</body>
+</html>
